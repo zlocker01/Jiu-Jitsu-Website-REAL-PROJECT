@@ -12,7 +12,7 @@ Diego Beristain de la Mora
 
 ## Instalacion 🔌
 
-Este proyecto no necesita instalacion solo abre la carpeta o haz doble-click en el .HTML
+Este proyecto no necesita instalacion solo abre https://zlocker01.github.io/Jiu-Jitsu-Website-REAL-PROJECT/ o haz doble-click en el .HTML
 
 ## Contratacion 📧
 
