@@ -1,7 +1,7 @@
 ## Descricpion 🖥️
 
 Jiu-Jitsu-Website-REAL-Project
-Este es mi primer proyecto real creado con HTML CSS y JavaScript, Canvas(para el horario) y Prepros.
+Este es mi primer proyecto real creado con HTML CSS y JavaScript, Canvas (para el horario) y Prepros.
 Creado con una metodologia BEM.
 
 ## Autor ✒️
