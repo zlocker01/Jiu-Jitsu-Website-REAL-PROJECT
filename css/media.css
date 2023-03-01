@@ -60,6 +60,7 @@
 
 @media (min-width: 744px) and (max-width: 980px){
 /* main */
+
 .content-info__logo{
     max-width: 30vw;
 }
@@ -107,11 +108,6 @@
 }
 .mision__p, .gallery{
     margin-bottom: 6.25rem;
-}
-/* modalidades */
-.modalidades__text--3{
-    position: relative;
-    right: 13.125rem;
 }
 
 /* formulario */
@@ -223,12 +219,16 @@ iframe{
     display: grid;
 }
 
-.modalidades__img--1, .modalidades__img--3, .modalidades__img--2 .modalidades__text--2{
+.modalidades__img--4, .modalidades__img--2{
+    order: 1;
+}
+
+.modalidades__img--1, .modalidades__img--3, .modalidades__text--2{
     grid-column: 1;
     width: 50vw;
 }
 
-.modalidades__text--1, .modalidades__text--3, .modalidades__img--2{
+.modalidades__text--1, .modalidades__text--3{
     grid-column: 2;
 }
 
@@ -254,6 +254,7 @@ iframe{
     align-items: center;
     padding: 0 1.875rem;
 }
+
 
 /* horario */
 
@@ -307,13 +308,26 @@ iframe{
 }
 
 @media (min-width: 1400px){
-    *{
-        font-size: large;
+
+*{
+    font-size: large;
+}
+
+p {
+    line-height: 3vh;
+}
+
+h2 {
+    font-size: 1.6875rem;
+}
+}
+
+@media (min-width: 980px){
+    .modalidades__img--4{
+        margin-bottom: .9375rem;
     }
-    p {
-        line-height: 3vh;
-    }
-    h2 {
-        font-size: 1.6875rem;
+    
+    .modalidades__text--2, .modalidades__text--4{
+        padding-left: 3.75rem;
     }
 }
