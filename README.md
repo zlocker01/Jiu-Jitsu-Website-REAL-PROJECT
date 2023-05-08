@@ -10,7 +10,9 @@ Diego Beristain de la Mora
 
 ## Ver Proyecto en vivo 👁️
 
-https://zlocker01.github.io/Jiu-Jitsu-Website-REAL-PROJECT/
+<img width="897" alt="Captura de pantalla 2023-05-08 101017" src="https://user-images.githubusercontent.com/121736405/236874607-e4324783-7157-4d1e-a30c-58689f928f4f.png">
+
+https://www.jsbjjmx.com/
 
 ## Instalacion 🔌
 
